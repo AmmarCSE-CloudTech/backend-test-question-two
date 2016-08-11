@@ -1,0 +1,21 @@
+{
+  "name": "backend-solution-question-two",
+  "version": "1.0.0",
+  "description": "solution to question two",
+  "author": "Ammar Abu-Yasein <ammar.cse.ut@gmail.com>",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmmarCSE-CloudTech/backend-test-question-two"
+  },
+  "directories": { "lib": "./lib" },
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "devDependencies": {
+    "mocha": "~> 2.3",
+    "should": "~> 7.1"
+  }
+}
